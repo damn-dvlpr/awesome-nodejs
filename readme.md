@@ -818,7 +818,7 @@
 - [npmcompare.com](https://npmcompare.com) - Compare and discover npm packages.
 
 ### Articles
-
+- [Why you should use Node.js over Django](https://levelup.gitconnected.com/why-you-should-use-node-js-over-django-f6870dd8dac0)
 - [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors)
 - [Teach Yourself Node.js in 10 Steps](https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps)
 - [Mastering the filesystem in Node.js](https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801)
